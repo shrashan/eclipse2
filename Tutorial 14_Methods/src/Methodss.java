@@ -9,6 +9,8 @@ class Student{
 		System.out.println("Myname is "+ name);
 		System.out.println("My age is "+age);
 		System.out.println("My grade is "+grades);
+		system.out.println("My grade is "+grades);
+		
 	}
 	
 }
